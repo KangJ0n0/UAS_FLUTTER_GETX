@@ -1,0 +1,22 @@
+name: Flutter_GetX
+description: "aplikasi Point of Sale (POS) sederhana"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  fl_chart: ^0.69.0
+  intl: ^0.20.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
