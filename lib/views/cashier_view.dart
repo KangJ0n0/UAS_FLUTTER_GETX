@@ -33,7 +33,7 @@ class CashierPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cashier', style: TextStyle(color: Colors.white)),
+        title: Text('Kasir', style: TextStyle(color: Colors.white)),
         backgroundColor: Color(0xFF4A9DEC),
         elevation: 0,
       ),

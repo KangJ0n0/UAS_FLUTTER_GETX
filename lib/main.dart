@@ -13,7 +13,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false, // Menyembunyikan banner debug
-      title: 'GetX App', // Nama aplikasi
+      title: 'Point of Sale (POS)', // Nama aplikasi
       initialRoute: '/', // Rute awal (halaman login)
       getPages:
           AppRoutes.routes, // Daftar rute yang didefinisikan di routes.dart
